@@ -104,3 +104,5 @@ Explore the vulnerability. Read the simple pentest report on the folder report/,
 #### Authors
 * [Sulhaedir](https://github.com/0c34)
 * [Deny](https://github.com/xCr00tz)
+
+PR
